@@ -11,7 +11,7 @@
 
 	Name: <jsp:getProperty property="name" name="person"/></p>
 	<br/>
-	Mail: <jsp:getProperty property="mail" name="person"/></p>
+	<p>Mail: <jsp:getProperty property="mail" name="person"/></p>
 
 </body>
 </html>
