@@ -9,9 +9,9 @@
 </head>
 <body>
 
-	<p>Name: <jsp:getProperty property="name" name="person"/></p>
+	Name: <jsp:getProperty property="name" name="person"/></p>
 	<br/>
-	<p>Mail: <jsp:getProperty property="mail" name="person"/></p>
+	Mail: <jsp:getProperty property="mail" name="person"/></p>
 
 </body>
 </html>
